@@ -4,7 +4,7 @@
         <nav>
             <ul>
                 <li>
-                    <NuxtLink to="/parent/child">Child</NuxtLink>
+                    <NuxtLink to="/parent/child">Child 1</NuxtLink>
                 </li>
                 <li>
                     <NuxtLink to="/parent/child2">Child 2</NuxtLink>
