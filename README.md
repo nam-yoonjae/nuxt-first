@@ -1,0 +1,2 @@
+# nuxt-first
+hello nuxt
