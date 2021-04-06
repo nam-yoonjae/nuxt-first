@@ -1,9 +1,10 @@
 <template>
     <div class="container">
+        <p><NuxtLink to="/dynamic">Back to Mountains</NuxtLink></p>
+        <p><NuxtLink to="/rivers">Rivers</NuxtLink></p>
         <h1>Continent : {{ continent }}</h1>
         <h2>Mountain : {{ mountain }}</h2>
         <p>Path : {{ $route.path }}</p>
-        <NuxtLink to="/dynamic">Back to Mountains</NuxtLink>
     </div>
 </template>
 <script>

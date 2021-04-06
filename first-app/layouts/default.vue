@@ -9,7 +9,7 @@
           <NuxtLink to="/about">About page</NuxtLink>
         </li>
         <li>
-          <NuxtLink to="/rivers">Rivers</NuxtLink>
+          <NuxtLink to="/parent">nested pages</NuxtLink>
         </li>
       </ul>
     </nav>
