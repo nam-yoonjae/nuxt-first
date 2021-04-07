@@ -17,6 +17,9 @@
         <li>
           <NuxtLink to="/asyncdata">asyncData Test</NuxtLink>
         </li>
+        <li>
+          <NuxtLink to="/testpage">test Page</NuxtLink>
+        </li>
       </ul>
     </nav>
     <main>

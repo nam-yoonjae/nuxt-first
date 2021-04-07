@@ -4,7 +4,8 @@
         <p>" Nested Pages " : 둥지, 감싼 페이지, 부모-자식 페이지</p>
         <p>parent.vue 파일은 template 내부에 NuxtChild 컴포넌트를 가지고 있다.</p>
         <p>(하위페이지를 안으려면 이 파일(parent.vue)과 같은 이름의 폴더(parent)가 있어야 하고 그안에 index.vue 가 있어야한다.)</p>
-        <p>그리고 NuxtChild 태그 부분에 parent폴더가 렌더링된다.</p>
+        <p>NuxtLink to 로 연결된 child vue 는 클릭 이벤트가 발생하면</p>
+        <p>NuxtChild 태그 부분에 렌더링된다.</p>
         <nav>
             <ul>
                 <li>
