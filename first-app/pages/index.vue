@@ -29,6 +29,9 @@ export default {
     return {
       rendering : process.server ? 'server' : 'client'
     }
+  },
+  data() {
+
   }
 }
 </script>
